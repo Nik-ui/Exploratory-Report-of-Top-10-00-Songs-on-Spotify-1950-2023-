@@ -1,2 +1,2 @@
-# Exploratory-Report-of-Top-10-00-Songs-on-Spotify-1950-2023-
+# Exploratory-Report-of-Top-10-00-Songs-on-Spotify-1950-2023
 This assessment uses a dataset of the top 10,000 Spotify tracks from 1950 to 2024 to visually represent the growth of popular music across several dimensions, such as audio attributes, genre prevalence, mood classification, and popularity scores. Using data visualisation as the primary method, this study reveals detailed changes in music properties spanning decades while employing stringent cleaning, transformation, and classification techniques.
